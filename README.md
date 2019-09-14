@@ -1,2 +1,5 @@
 # CV - Angel Israel Sifuentes Urbina
-estado de pruebas...
+Se agrego el Responsive Desing
+al proyecto
+
+Aun en estado de pruebas...
